@@ -93,5 +93,5 @@ getCSS.onclick = () => {
             }
         }
     }  
-    request.send(); //readyState = 2
+    request.send() //readyState = 2
 }
